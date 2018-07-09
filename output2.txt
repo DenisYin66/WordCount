@@ -1,10 +1,6 @@
-that : 4442
-with : 3310
-Scarlett : 2777
-were : 2067
-they : 1806
-would : 1668
-have : 1630
-from : 1610
-could : 1530
-said : 1505
+best : 11
+Times : 6
+TimesIt : 4
+file : 1
+Time : 1
+file123 : 1
